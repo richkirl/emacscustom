@@ -24,6 +24,7 @@ sudo cp $HOME/.emacs $HOME/.emacs.backup
 echo '(setq custom-file "'$mcsdir'/plugins.el")' >> $HOME/.emacs
 echo '(load custom-file)' >> $HOME/.emacs
 rm logfile.txt
+exit 0
 else 
 	exec 1>&6 6>&-
 	rm logfile.txt

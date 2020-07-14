@@ -1,5 +1,7 @@
 #My Custom Emacs
 
+copy this file to ~/.emacs and
+
 M-x package-instal RET auto-complete
 
 M-x package-instal RET auto-complete-c-headers

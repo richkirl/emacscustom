@@ -8,7 +8,7 @@ M-x package-install RET auto-complete-c-headers
 
 M-x package-install RET yasnippet
 
-for search your includedirectories for gcc
+for search your includedirectories for gcc type command: 
 
-type command: gcc -xc++ -E -v -
+gcc -xc++ -E -v -
 

@@ -1,9 +1,5 @@
 #My Custom Emacs
 
-For install this file conf for emacs 
+M-x package-instal RET auto-complete
 
-go to next command:
-
-sudo chmod +x plemconfig.sh
-
-./plemconfig.sh
+M-x package-instal RET auto-complete

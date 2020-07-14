@@ -2,9 +2,9 @@
 
 copy this file to ~/.emacs and
 
-M-x package-instal RET auto-complete
+M-x package-install RET auto-complete
 
-M-x package-instal RET auto-complete-c-headers
+M-x package-install RET auto-complete-c-headers
 
 M-x package-install RET yasnippet
 

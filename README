@@ -8,7 +8,9 @@ M-x package-install RET auto-complete-c-headers
 
 M-x package-install RET yasnippet
 
-M-x package-install RET 
+M-x package-install RET iedit-mode
+
+
 
 for search your includedirectories for gcc type command: 
 

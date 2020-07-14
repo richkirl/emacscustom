@@ -10,7 +10,11 @@ M-x package-install RET yasnippet
 
 M-x package-install RET iedit-mode
 
+M-x package-install RET flymake-google-cpplint
 
+M-x package-inatall RET flymake-cursor
+
+M-x package-install RET google-c-style
 
 for search your includedirectories for gcc type command: 
 

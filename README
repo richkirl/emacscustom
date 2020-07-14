@@ -2,4 +2,9 @@
 
 M-x package-instal RET auto-complete
 
-M-x package-instal RET auto-complete
+M-x package-instal RET auto-complete-c-headers
+
+for search your includedirectories for gcc
+
+type command: gcc -xc++ -E -v -
+

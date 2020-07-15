@@ -12,6 +12,8 @@ M-x package-install RET iedit-mode
 
 M-x package-install RET flymake-google-cpplint
 
+###########################################################
+
 sudo pip search cpplint
 
 sudo pip install cpplint
@@ -19,6 +21,8 @@ sudo pip install cpplint
 for gentoo:
 
 sudo pip install --user cpplint
+
+###########################################################
 
 M-x package-inatall RET flymake-cursor
 
@@ -28,7 +32,10 @@ M-x packsge-install RET bs
 
 M-x package-install RET nlinum
 
+##########################################################
+
 for search your includedirectories for gcc type command: 
 
 gcc -xc++ -E -v -
 
+##########################################################

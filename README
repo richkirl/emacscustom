@@ -24,6 +24,10 @@ M-x package-inatall RET flymake-cursor
 
 M-x package-install RET google-c-style
 
+M-x packsge-install RET bs
+
+M-x package-install RET nlinum
+
 for search your includedirectories for gcc type command: 
 
 gcc -xc++ -E -v -

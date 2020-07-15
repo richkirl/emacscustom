@@ -2,6 +2,8 @@
 
 copy this file to ~/.emacs and
 
+###########################################################
+
 M-x package-install RET auto-complete
 
 M-x package-install RET auto-complete-c-headers

@@ -10,6 +10,14 @@
 
 (package-initialize)
 
+(require 'nlinum)
+(setq linum-format "%d ")
+(global-linum-mode 1)
+
+(require 'bs)
+(setq bs-configurations '(("files" "^\\*scracth\\*" nil nil bs-visits-non-file bs-sort-buffer-interns-are-last)))
+(global-set-key (kbd "<f2>") 'bs-show)
+
 (require 'auto-complete)
 
 (require 'auto-complete-config)
